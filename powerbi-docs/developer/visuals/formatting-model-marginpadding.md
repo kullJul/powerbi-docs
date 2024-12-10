@@ -2,7 +2,7 @@
 title: MarginPadding formatting slice
 description: This article describes how to implement MarginPadding slice in custom visuals using the formatting model utils
 author: kullJul
-ms.author: ''
+ms.author: monaberdugo
 ms.reviewer: ''
 ms.service: powerbi
 ms.subservice: powerbi-custom-visuals

@@ -2,7 +2,7 @@
 title: Formatting settings container
 description: This article describes how to implement Formatting settings container in custom visuals using the formatting model utils
 author: kullJul
-ms.author: ''
+ms.author: monaberdugo
 ms.reviewer: ''
 ms.service: powerbi
 ms.subservice: powerbi-custom-visuals
